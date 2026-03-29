@@ -1,6 +1,6 @@
 # naseerhussainjiffiri.github.io
 
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Naseer Hussain Jiffiri! 👋
 
 ### Specializing in Human-Centered UI/UX and Scalable Full-Stack Architecture.
 
